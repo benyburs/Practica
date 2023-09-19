@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Desktop\\PracticaExamen\\practica\\practica.csproj": {}
+    "E:\\Desktop\\Practica - copia\\practica.csproj": {}
   },
   "projects": {
-    "E:\\Desktop\\PracticaExamen\\practica\\practica.csproj": {
+    "E:\\Desktop\\Practica - copia\\practica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Desktop\\PracticaExamen\\practica\\practica.csproj",
+        "projectUniqueName": "E:\\Desktop\\Practica - copia\\practica.csproj",
         "projectName": "practica",
-        "projectPath": "E:\\Desktop\\PracticaExamen\\practica\\practica.csproj",
+        "projectPath": "E:\\Desktop\\Practica - copia\\practica.csproj",
         "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "E:\\Desktop\\PracticaExamen\\practica\\obj\\",
+        "outputPath": "E:\\Desktop\\Practica - copia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.151, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

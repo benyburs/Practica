@@ -1,7 +1,8 @@
 ﻿using System.Diagnostics;
+using Prac.Models;
 using Microsoft.AspNetCore.Mvc;
 using practica.Models;
-
+using Prac.Models;
 namespace practica.Controllers;
 
 public class HomeController : Controller
@@ -15,11 +16,17 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
+        ViewBag.ListaAlumnos = BD.SeleccionarAlumnos();
         return View();
     }
 
     public IActionResult Privacy()
     {
+        return View();
+    }
+        public IActionResult VerDetalleAlumno(int id)
+    {
+        ViewBag.Alumno= BD.AlumnoElegido(id);
         return View();
     }
 
