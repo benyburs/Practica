@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N41g5QihY5faDG+rQ9S1CRgCnPoEJqELQ/ruQr9oXe+y1ieijaURSX7ReOJt/bLO7FgzzrU4ScZRGdOjA4YQjQ==",
+  "dgSpecHash": "vnp3As+FwZ6f1tp7knk/LpoxZSRNO3pahIbyx5Uclzc3evBeL1PIplOYQCOXCr01eCbbj0PQNQ5fcs5C9iXwmA==",
   "success": true,
-  "projectFilePath": "E:\\Desktop\\Practica - copia\\practica.csproj",
+  "projectFilePath": "E:\\Desktop\\Practica-BenicioBursztyn\\practica.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\usuario\\.nuget\\packages\\dapper\\2.0.151\\dapper.2.0.151.nupkg.sha512",
     "C:\\Users\\usuario\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

@@ -1,0 +1,28 @@
+<form action='@Url.Action("GuardarAlumno")' method="post">
+        <div class="mb-5">
+            <label class="form-label">id</label>
+            <input class="form-control" type="number" name="id">
+        </div>
+        <div class="mb-5">
+            <label class="form-label">Nombre</label>
+            <input class="form-control" type="text" name="nombre">
+        </div>
+        <div class="mb-5">
+            <label class="form-label">apellido</label>
+            <input class="form-control" type="text" name="apellido" required>
+        </div>
+        <div class="mb-5">
+            <label class="form-label">curso</label> 
+        </div>
+        <div class="mb-5">
+            <label class="form-label">curso</label>
+            <input class="form-control" type="text" name="curso" required>
+        </div>
+             <div class="mb-5">
+            <label class="form-label">edad</label>
+            <input class="form-control" type="number" name="edad" required>
+        </div>
+        <div class="my-5">
+            <button type="submit" class="btn btn-primary">Guardar</button>
+        </div>
+    </form>

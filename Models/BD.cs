@@ -30,5 +30,24 @@ namespace Prac.Models
         }
         return Elegido;
     }
+public static void InsertAlumno(Alumnos alumno)
+{
+    string SQL = "INSERT INTO Alumnos(nombre, apellido, curso, edad)";
+    SQL += " VALUES (@pNombre, @pApellido, @pCurso, @pEdad)";
+
+    using (SqlConnection db = new SqlConnection(_connectionString))
+    {
+        db.Execute(SQL, new
+        {
+            pNombre = alumno.nombre,
+            pApellido = alumno.apellido,
+            pCurso = alumno.curso,
+            pEdad = alumno.edad
+        });
+    }
+}
+
+
+    
     }
 }

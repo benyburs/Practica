@@ -40,3 +40,37 @@ E:\Desktop\Practica - copia\obj\Debug\net6.0\refint\practica.dll
 E:\Desktop\Practica - copia\obj\Debug\net6.0\practica.pdb
 E:\Desktop\Practica - copia\obj\Debug\net6.0\practica.genruntimeconfig.cache
 E:\Desktop\Practica - copia\obj\Debug\net6.0\ref\practica.dll
+E:\Desktop\Practica-BenicioBursztyn\bin\Debug\net6.0\appsettings.Development.json
+E:\Desktop\Practica-BenicioBursztyn\bin\Debug\net6.0\appsettings.json
+E:\Desktop\Practica-BenicioBursztyn\bin\Debug\net6.0\practica.staticwebassets.runtime.json
+E:\Desktop\Practica-BenicioBursztyn\bin\Debug\net6.0\practica.exe
+E:\Desktop\Practica-BenicioBursztyn\bin\Debug\net6.0\practica.deps.json
+E:\Desktop\Practica-BenicioBursztyn\bin\Debug\net6.0\practica.runtimeconfig.json
+E:\Desktop\Practica-BenicioBursztyn\bin\Debug\net6.0\practica.dll
+E:\Desktop\Practica-BenicioBursztyn\bin\Debug\net6.0\practica.pdb
+E:\Desktop\Practica-BenicioBursztyn\bin\Debug\net6.0\Dapper.dll
+E:\Desktop\Practica-BenicioBursztyn\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Desktop\Practica-BenicioBursztyn\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Desktop\Practica-BenicioBursztyn\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Desktop\Practica-BenicioBursztyn\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Desktop\Practica-BenicioBursztyn\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Desktop\Practica-BenicioBursztyn\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Desktop\Practica-BenicioBursztyn\obj\Debug\net6.0\practica.csproj.AssemblyReference.cache
+E:\Desktop\Practica-BenicioBursztyn\obj\Debug\net6.0\practica.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Practica-BenicioBursztyn\obj\Debug\net6.0\practica.AssemblyInfoInputs.cache
+E:\Desktop\Practica-BenicioBursztyn\obj\Debug\net6.0\practica.AssemblyInfo.cs
+E:\Desktop\Practica-BenicioBursztyn\obj\Debug\net6.0\practica.csproj.CoreCompileInputs.cache
+E:\Desktop\Practica-BenicioBursztyn\obj\Debug\net6.0\practica.MvcApplicationPartsAssemblyInfo.cache
+E:\Desktop\Practica-BenicioBursztyn\obj\Debug\net6.0\practica.RazorAssemblyInfo.cache
+E:\Desktop\Practica-BenicioBursztyn\obj\Debug\net6.0\practica.RazorAssemblyInfo.cs
+E:\Desktop\Practica-BenicioBursztyn\obj\Debug\net6.0\staticwebassets.build.json
+E:\Desktop\Practica-BenicioBursztyn\obj\Debug\net6.0\staticwebassets.development.json
+E:\Desktop\Practica-BenicioBursztyn\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Desktop\Practica-BenicioBursztyn\obj\Debug\net6.0\scopedcss\bundle\practica.styles.css
+E:\Desktop\Practica-BenicioBursztyn\obj\Debug\net6.0\scopedcss\projectbundle\practica.bundle.scp.css
+E:\Desktop\Practica-BenicioBursztyn\obj\Debug\net6.0\practica.csproj.CopyComplete
+E:\Desktop\Practica-BenicioBursztyn\obj\Debug\net6.0\practica.dll
+E:\Desktop\Practica-BenicioBursztyn\obj\Debug\net6.0\refint\practica.dll
+E:\Desktop\Practica-BenicioBursztyn\obj\Debug\net6.0\practica.pdb
+E:\Desktop\Practica-BenicioBursztyn\obj\Debug\net6.0\practica.genruntimeconfig.cache
+E:\Desktop\Practica-BenicioBursztyn\obj\Debug\net6.0\ref\practica.dll

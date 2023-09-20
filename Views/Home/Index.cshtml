@@ -4,6 +4,10 @@
     ViewData["Title"] = "Home Page";
 }
 
+<p>Si quiere agregar</p>
+    <a class="btn btn-primary" href='@Url.Action("CrearAlumno","Home")'>Agregar Nuevao alumno</a>
+
+
 @foreach (Alumnos item in ViewBag.ListaAlumnos)
 {
     <div class="text-center">

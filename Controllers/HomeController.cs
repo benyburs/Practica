@@ -2,7 +2,6 @@
 using Prac.Models;
 using Microsoft.AspNetCore.Mvc;
 using practica.Models;
-using Prac.Models;
 namespace practica.Controllers;
 
 public class HomeController : Controller
@@ -30,9 +29,29 @@ public class HomeController : Controller
         return View();
     }
 
+      public IActionResult CrearAlumno()
+        {
+            return View();
+        }
+       public IActionResult GuardarAlumno(Alumnos alumn)
+        {
+            if (string.IsNullOrEmpty(alumn.nombre))
+            {
+                ViewBag.Error = "Se deben completar todos los campos";
+                return RedirectToAction("CrearAlumno");
+            }
+            else
+            {
+                BD.InsertAlumno(alumn);
+                return RedirectToAction("index");
+            }
+}
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {
         return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
     }
+
+
+    
 }

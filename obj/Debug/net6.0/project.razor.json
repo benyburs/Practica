@@ -18404,6 +18404,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\Desktop\\Practica-BenicioBursztyn\\Views\\Home\\CrearAlumno.cshtml",
+      "TargetPath": "Views\\Home\\CrearAlumno.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\Desktop\\Practica-BenicioBursztyn\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"

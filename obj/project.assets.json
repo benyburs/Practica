@@ -507,11 +507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\Desktop\\Practica - copia\\practica.csproj",
+      "projectUniqueName": "E:\\Desktop\\Practica-BenicioBursztyn\\practica.csproj",
       "projectName": "practica",
-      "projectPath": "e:\\Desktop\\Practica - copia\\practica.csproj",
+      "projectPath": "E:\\Desktop\\Practica-BenicioBursztyn\\practica.csproj",
       "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "e:\\Desktop\\Practica - copia\\obj\\",
+      "outputPath": "E:\\Desktop\\Practica-BenicioBursztyn\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

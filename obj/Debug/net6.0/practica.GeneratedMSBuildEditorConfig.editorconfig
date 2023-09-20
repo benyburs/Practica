@@ -8,41 +8,45 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = practica
 build_property.RootNamespace = practica
-build_property.ProjectDir = e:\Desktop\Practica-BenicioBursztyn\
+build_property.ProjectDir = E:\Desktop\Practica-BenicioBursztyn\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = e:\Desktop\Practica-BenicioBursztyn
+build_property.MSBuildProjectDirectory = E:\Desktop\Practica-BenicioBursztyn
 build_property._RazorSourceGeneratorDebug = 
 
-[e:/Desktop/Practica-BenicioBursztyn/Views/Home/Index.cshtml]
+[E:/Desktop/Practica-BenicioBursztyn/Views/Home/CrearAlumno.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhckFsdW1uby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Desktop/Practica-BenicioBursztyn/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/Desktop/Practica-BenicioBursztyn/Views/Home/Privacy.cshtml]
+[E:/Desktop/Practica-BenicioBursztyn/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/Desktop/Practica-BenicioBursztyn/Views/Home/VerDetalleAlumno.cshtml]
+[E:/Desktop/Practica-BenicioBursztyn/Views/Home/VerDetalleAlumno.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWZXJEZXRhbGxlQWx1bW5vLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/Desktop/Practica-BenicioBursztyn/Views/Shared/Error.cshtml]
+[E:/Desktop/Practica-BenicioBursztyn/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/Desktop/Practica-BenicioBursztyn/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/Desktop/Practica-BenicioBursztyn/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/Desktop/Practica-BenicioBursztyn/Views/_ViewImports.cshtml]
+[E:/Desktop/Practica-BenicioBursztyn/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/Desktop/Practica-BenicioBursztyn/Views/_ViewStart.cshtml]
+[E:/Desktop/Practica-BenicioBursztyn/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/Desktop/Practica-BenicioBursztyn/Views/Shared/_Layout.cshtml]
+[E:/Desktop/Practica-BenicioBursztyn/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-42blh6mfvp
