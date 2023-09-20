@@ -23,9 +23,11 @@ public class HomeController : Controller
     {
         return View();
     }
-        public IActionResult VerDetalleAlumno(int id)
+    
+    public IActionResult VerDetalleAlumno(int id)
     {
         ViewBag.Alumno= BD.AlumnoElegido(id);
+        
         return View();
     }
 
